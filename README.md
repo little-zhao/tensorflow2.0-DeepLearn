@@ -3,5 +3,5 @@
 持续更新中...
 --
   关注公众号 获得更多信息！
- ![](images/公众号.jpg)
+ ![images](images/公众号.jpg)
 （公众号：Python工厂）欢迎关注
