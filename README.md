@@ -1,4 +1,4 @@
-本项目将“Python深度学习”书中程序改为使用tensorflow2.0实现
+深度学习 tensorflow2.0实战
 =
 持续更新中
 --
